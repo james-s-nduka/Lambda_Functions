@@ -1,6 +1,6 @@
-# AWS CCC Lambda Functions
+# Lambda Functions
 
-This repository will store the Lambda Functions associated with the AWS Cloud Capability Centre Portal
+This repository will store the Lambda Functions associated with a AWS Cloud Capability Centre Portal
 
 ## Recommended Use
 
