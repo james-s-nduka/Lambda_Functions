@@ -11,7 +11,7 @@ The Heavy Forwarder instances will need an access policy as part of its attached
   "Version": "2012-10-17",
   "Statement": [{
       "Action": ["sts:AssumeRole"],
-      "Resource": ["arn:aws:iam::111111111111:role/tesco-splunk-read"],
+      "Resource": ["arn:aws:iam::111111111111:role/splunk-read"],
       "Effect": "Allow"
     }
   ]
